@@ -1,0 +1,83 @@
+* {
+
+    margin: 0px;
+
+}
+
+body {
+
+    background-image: url("https://papers.co/wallpaper/papers.co-se16-soft-programming-gradation-blur-35-3840x2160-4k-wallpaper.jpg");
+    background-size: cover;
+    
+    overflow-x: hidden;
+
+}
+
+header {
+
+    padding: 20px 100px;
+
+    text-align: left;
+
+}
+
+.navbar-place {
+
+    color: #fff;
+
+}
+
+.text-place {
+
+    color: #101010;
+
+    text-align: left;
+
+    padding: 0px 200px;
+
+    width: 50%;
+
+    font-family: 'Plus Jakarta Sans', sans-serif;
+
+}
+
+.text-place a {
+
+    color: rgba(30, 30, 30, 0.807);
+
+    font-family: 'Plus Jakarta Sans', sans-serif;
+
+}
+
+.swipe-place {
+
+    padding: 0px 350px;
+
+    width: 100%;
+
+}
+
+.swipe-place img {
+
+    padding: 0px 93px;
+
+}
+
+.swipe-place p {
+
+    color: #101010;
+
+    font-size: 10px;
+    font-weight: 600;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+
+}
+
+.swipe-place a {
+
+    color: rgba(30, 30, 30, 0.807);
+
+    font-weight: 600;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+
+}
